@@ -3,3 +3,5 @@ Novo arquivo
 Commit via git-scm
 
 Adicionado no VScode;
+
+Modificado no STM32CubeIDE;
