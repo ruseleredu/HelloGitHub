@@ -1,3 +1,5 @@
 Novo arquivo
 
 Commit via git-scm
+
+Adicionado no VScode;
